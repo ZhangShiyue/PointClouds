@@ -3,5 +3,5 @@
 
 ## Authors:
 
-### Shiyue Zhang
-### Xiang Zhou
+* Shiyue Zhang
+* Xiang Zhou

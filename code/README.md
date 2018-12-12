@@ -1,4 +1,4 @@
-## Modified from https://github.com/manzilzaheer/DeepSets
+Modified from https://github.com/manzilzaheer/DeepSets
 
 ## Requirements
 * Python 3
